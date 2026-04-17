@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pdfplumber
+PyMuPDF
+easyocr
+Pillow
+requests
+pydantic
+python-multipart
+streamlit
+reportlab
